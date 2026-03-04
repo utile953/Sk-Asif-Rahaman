@@ -1,0 +1,5 @@
+{
+  "name": "Andrew Plumber - Bangalore's Best Plumbing Service",
+  "description": "Professional 24/7 plumbing services across Bangalore. Expert in leak repairs, installations, and emergency plumbing.",
+  "requestFramePermissions": ["geolocation"]
+}
